@@ -104,7 +104,7 @@ void loop() {
   delay(10);*/
 
 
-  // ---------Arduino Teleop Stuff----------------------------
+  // ---------Arduino Autonomous Stuff----------------------------
 
   /*int potLeftReading = analogRead(potLeftPin);
   
